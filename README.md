@@ -27,6 +27,13 @@ This project performs **Sentiment Analysis** on the IMDB dataset of 50,000 movie
 5. Evaluate accuracy and metrics
 6. Visualize confusion matrix
 
+## SENTIMENT_ANALYSIS/
+├── sentiment-analysis.ipynb      # Main notebook containing code and analysis
+├── requirements.txt              # List of required Python libraries
+├── README.md                     # Project overview and usage guide
+└── dataset/
+    └── imdb-dataset.csv          # Input dataset (optional or added via Kaggle)
+
 ##  Requirements
 
 Install the following packages before running the notebook:
