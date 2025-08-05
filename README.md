@@ -27,12 +27,13 @@ This project performs **Sentiment Analysis** on the IMDB dataset of 50,000 movie
 5. Evaluate accuracy and metrics
 6. Visualize confusion matrix
 
-## SENTIMENT_ANALYSIS
+## Sentiments Analysis
 ├── sentiment-analysis.ipynb      
 ├── requirements.txt              
 ├── README.md                    
 └── dataset
-       └── imdb-dataset.csv          
+    
+    └── imdb-dataset.csv          
 
 ##  Requirements
 
