@@ -32,8 +32,7 @@ This project performs **Sentiment Analysis** on the IMDB dataset of 50,000 movie
 ├── requirements.txt              
 ├── README.md                    
 └── dataset
-    
-    └── imdb-dataset.csv          
+└── imdb-dataset.csv          
 
 ##  Requirements
 
